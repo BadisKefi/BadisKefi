@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BadisKefi
-- 👀 I’m interested in mobile app & game developement
+- 👀 I’m interested in mobile app & game developement (2022 currently learning web dev)
 - 🌱 I’m currently learning more unity & hyperCasual
 - 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me ? you re already in my github :3 & here is my fb https://www.facebook.com/profile.php?id=100010521247713
